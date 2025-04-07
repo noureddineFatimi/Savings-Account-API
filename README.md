@@ -23,25 +23,25 @@ A Spring Boot REST API for managing savings accounts in a banking system. This p
 
 ### 📘 Swagger API Documentation
 <p align="center">
-  <img src="screenshots/swagger-overview.png" alt="Swagger API Documentation" width="700">
+  <img src="src/main/resources/static/image1.png" alt="Swagger API Documentation" width="700">
 </p>
 <p align="center"><em>Interactive API documentation with Swagger UI</em></p>
 
 ### 👥 User Endpoints
 <p align="center">
-  <img src="screenshots/user-endpoints.png" alt="User Endpoints" width="700">
+  <img src="src/main/resources/static/image3.png" alt="User Endpoints" width="700">
 </p>
 <p align="center"><em>Complete user management functionality</em></p>
 
 ### 📄 Contract Operations
 <p align="center">
-  <img src="screenshots/contract-endpoints.png" alt="Contract Operations" width="700">
+  <img src="src/main/resources/static/image2.png" alt="Contract Operations" width="700">
 </p>
 <p align="center"><em>Savings contract creation and management</em></p>
 
 ### 🗂️ Database Schema
 <p align="center">
-  <img src="screenshots/database-schema.png" alt="Database Schema" width="700">
+  <img src="src/main/resources/static/image4.png" alt="Database Schema" width="700">
 </p>
 <p align="center"><em>Relational model showing entities and relationships</em></p>
 
